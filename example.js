@@ -1,4 +1,4 @@
-function hello() { return "hello worlds" }
+function hello() { return "hello world" }
 
 const one = 1
 const two = 2
